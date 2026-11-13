@@ -47,7 +47,7 @@ I build software and automated business systems that make learning and operation
   Built and maintain 5+ automated Google Sheets databases and Apps Script workflows to grade student assessments, track performance across 5 cohorts, and generate individualized report cards for 450+ learners.
 - **TBPJ Construction Operations & Financial System** *(Google AppSheet)*  
   Built a custom web application and database system for tracking employees, construction materials, and daily cash flows to replace manual paper logs; the system remains in active daily use by the company today.
-- **[BYU–Idaho Software Development Coursework & Projects](https://github.com/rudyiipilande?tab=repositories)** *(JavaScript, Python, Java, SQL, HTML/CSS)*  
+- **[BYU–Idaho Software Development Coursework & Projects](https://github.com/toginomi?tab=repositories)** *(JavaScript, Python, Java, SQL, HTML/CSS)*  
   Web applications, algorithm challenges, and software engineering projects built across my certificates in **Web & Computer Programming**, **Web Development**, and **Software Development**.
 
 ---
